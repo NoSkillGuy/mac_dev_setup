@@ -18,4 +18,8 @@ Setting up my mac dev
 11. Install pv
 12. Install redis
 13. Create Github && GitLab SSH Keys
-14.
+14. Install VirtualBox
+15. Install Vagrant
+16. Install imagemagik - Version 6
+17. Install numbers
+18. Install fastcgi - If you want to build rack yourself. 
