@@ -22,4 +22,4 @@ Setting up my mac dev
 15. Install Vagrant
 16. Install imagemagik - Version 6
 17. Install numbers
-18. Install fastcgi - If you want to build rack yourself. 
+18. Install fastcgi - If you want to build rack yourself. .
