@@ -25,4 +25,4 @@ Setting up my mac dev
 18. Install fastcgi - If you want to build rack yourself. 
 19. Install xcode
 20. Install rdm - Redis Desktop Manager
-
+21. Install redis monitor
